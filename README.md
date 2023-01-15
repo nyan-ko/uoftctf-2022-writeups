@@ -1,2 +1,2 @@
-# uoftctf-2022-writeups
+# uoftctf-2023-writeups
 meow
